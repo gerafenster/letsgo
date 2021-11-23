@@ -8,6 +8,7 @@ package negocio;
 /**
  *
  * @author ACER
+ * 
  */
 public class Evento {
     
